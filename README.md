@@ -16,7 +16,9 @@ Practice your mastery on writing Chinese characters using custom JavaFX brush an
 # Meditation Player (requires Sprite2.java to Work)
 A custom-built meditation player with moving bubbles!
 
-# Make your own Pizza
+# Make your own Pizza (MakeAPizza.java
 Create your own custom pizza with custom JavaFX brush and canvas implementations!
 
+# Make your own Certificate
+With this program, you can design your own certificate. You can edit the text/messages and change the background theme to customize the certificate.
 
